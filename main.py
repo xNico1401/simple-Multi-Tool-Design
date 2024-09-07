@@ -3,8 +3,8 @@
 # by the way colorama is used to produce color in a python shell like color commands in cmd
 import os 
 import colorama
-import sys
 from colorama import Fore
+import sys
 import time
 
 # this is the command to add color, write Fore. and then add the name of your color, you can find all the color name on colorama page
@@ -18,7 +18,7 @@ def menu():
 
 
 
-
+# Sorry for bad Structure but I want you to have some work :)
 
 				 
 {Fore.MAGENTA}████████╗███████╗███████╗████████╗
